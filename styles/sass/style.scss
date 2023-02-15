@@ -1,0 +1,11 @@
+@use './partials/setup';
+@use './partials/global';
+@use './partials/variables';
+@use './partials/background';
+// PAGE CONTENT
+@use './partials/header';
+@use './partials/form';
+
+
+// MEDIA QUERIES
+@use './partials/mediaQueries'
